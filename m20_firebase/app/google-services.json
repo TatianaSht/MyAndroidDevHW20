@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777437853545",
+    "project_id": "myandroiddevhw20",
+    "storage_bucket": "myandroiddevhw20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777437853545:android:6aadd2b0e6ad404e82aff8",
+        "android_client_info": {
+          "package_name": "com.example.myandroiddevhw20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbstJOampjJ3wuSQIP7AAKYmLQYY6ILu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
